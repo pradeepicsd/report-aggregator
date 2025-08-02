@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+boto3
+pandas
+pyarrow
+fastparquet
+awscli
+python-dotenv
