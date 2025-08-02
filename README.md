@@ -15,6 +15,6 @@ This allows to configration of aws account to get the report and parse it and do
 
 ## Note
 
-- **Developed on ubnuntu env** — Use ubuntu to easiliy setup the python and packages 
+- **Developed on ubuntu env** — Use ubuntu to easiliy setup the python and packages 
 
 ---
